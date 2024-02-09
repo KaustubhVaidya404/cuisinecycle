@@ -27,6 +27,3 @@ This project is a web application that helps users to prevent food wastage by pr
 3. Run the command `npm install` to install the dependencies
 4. Run the command `npm start` to start the server
 5. Open the browser and go to `http://localhost:3000`
-
-## Project Links
-- [GitHub Repository]
